@@ -19,14 +19,13 @@ A Computer Vision & Deep Learning Program to Recognize Sign Language in Real Tim
 `pip install tensorflow`
 8. Navigate to the directory with this repository
 9. Download the Sign Language Gesture Images Dataset to this directory<br /> 
-https://www.kaggle.com/ahmedkhanak1995/sign-language-gesture-images-dataset
+=> https://www.kaggle.com/ahmedkhanak1995/sign-language-gesture-images-dataset
 10. Remove the Gesture Image Pre-Processed Data
-11. Remove 0-9, J, Z, & - from the Gesture Image Data
+11. Remove 0-9, J, Z, & - from the Gesture Image Data (remove J & Z because those signs require motion)<br />
 12. Copy the remaining directories to a fresh directory named "SignLanguageRecognitionData"<br /> 
 ![Screen Shot 2021-12-11 at 6 43 59 PM](https://user-images.githubusercontent.com/64564445/145695101-43859158-022c-4d92-ac24-396ff4b983ac.png)
 13. Run main.py
 `python main.py`
 
 ## Demo: ##
-
 https://user-images.githubusercontent.com/64564445/145696344-0b0a6d33-bb0f-40dc-bf14-e53f2927349d.mov
