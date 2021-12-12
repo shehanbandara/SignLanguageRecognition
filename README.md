@@ -1,5 +1,7 @@
 # SignLanguageRecognition
-A Computer Vision & Deep Learning Program to Recognize Sign Language in Real Time.
+A Computer Vision & Deep Learning Program to Recognize Sign Language in Real Time.<br />
+
+![download](https://user-images.githubusercontent.com/64564445/145695970-3ac64cde-2d44-45c3-8294-4b61f44e8cdc.jpeg)
 
 ## Setup: ##
 1. Clone this repository
@@ -20,7 +22,11 @@ A Computer Vision & Deep Learning Program to Recognize Sign Language in Real Tim
 https://www.kaggle.com/ahmedkhanak1995/sign-language-gesture-images-dataset
 10. Remove the Gesture Image Pre-Processed Data
 11. Remove 0-9, J, Z, & - from the Gesture Image Data
-12. Copy the remaining directories to a fresh directory named "SignLanguageRecognitionData"
+12. Copy the remaining directories to a fresh directory named "SignLanguageRecognitionData"<br /> 
 ![Screen Shot 2021-12-11 at 6 43 59 PM](https://user-images.githubusercontent.com/64564445/145695101-43859158-022c-4d92-ac24-396ff4b983ac.png)
 13. Run main.py
 `python main.py`
+
+## Demo: ##
+
+https://user-images.githubusercontent.com/64564445/145696344-0b0a6d33-bb0f-40dc-bf14-e53f2927349d.mov
